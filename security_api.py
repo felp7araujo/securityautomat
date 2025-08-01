@@ -2,7 +2,7 @@
 
 import requests
 
-# Chave de API
+# Chave de API Asaas
 API_KEY = "$aact_hmlg_000MzkwODA2MWY2OGM3MWRlMDU2NWM3MzJlNzZmNGZhZGY6OmVmNWQ2YzRhLTQwMDktNGE4Yi04MTY1LTA4NmJlYjBhMGFkMjo6JGFhY2hfMDdhYjdiODgtOTExMC00MzNkLTkxZWItNmM4ZTMxMjc4ZmVm"
 
 def chamada_exemplo():

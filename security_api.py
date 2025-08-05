@@ -17,5 +17,5 @@ def chamada_exemplo():
     print("Status:", response.status_code)
     print("Resposta:", response.text)
 
-if __name__ == "__main__":
+if __Asaas__ == "__main__":
     chamada_exemplo()
